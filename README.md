@@ -6,4 +6,5 @@ This module requires no modules outside Python3.
 
 ## Execute
 cd /booking_portal
+
 python main.py
